@@ -25,7 +25,7 @@ npm i
 Ou
 
 ```
-  yarn
+yarn
 ```
 
 Pronto, todas as dependências foram instaladas.
