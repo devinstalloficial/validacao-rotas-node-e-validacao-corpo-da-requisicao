@@ -17,7 +17,7 @@ https://medium.com/@claudio.199644/valida%C3%A7%C3%A3o-de-rotas-no-node-com-n%C3
 
 ## Como usar?
 
-Clone o projeto. Dentro da pasta do mesmo digite o comando:
+Clone o projeto. Dentro da pasta digite o comando:
 
 ```
 npm i
