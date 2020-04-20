@@ -15,7 +15,7 @@ Foi feito também um post explicando passo a passo como tudo foi feito. Segue li
 
 https://medium.com/@claudio.199644/valida%C3%A7%C3%A3o-de-rotas-no-node-com-n%C3%ADveis-admin-usuario-e-valida%C3%A7%C3%A3o-do-corpo-da-requisi%C3%A7%C3%A3o-911d19a9f184
 
-## Como Usar?
+## Como usar?
 
 Clone o projeto. Dentro da pasta do mesmo digite o comando:
 
